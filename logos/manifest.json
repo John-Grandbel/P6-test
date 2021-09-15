@@ -1,0 +1,26 @@
+{
+  "short_name": "Poch'lib",
+  "name": "Poch'lib",
+  "description": "Application to allow you to search for books online, then to pick them up at the bookstore **La Plume enchantée**",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "96x96 64x64 32x32 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
